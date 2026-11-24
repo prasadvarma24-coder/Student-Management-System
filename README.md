@@ -23,3 +23,13 @@ Dynamic Statistics – Automatically updates total students, active students, co
 Responsive Design – Supports desktop, tablet and mobile devices.
 
 Dark Theme – Modern dark UI with gradient colors and interactive elements.
+
+🛠️ Technologies Used
+
+HTML5 – Structure of the application.
+
+CSS3 – Styling, layouts, and responsive design.
+
+JavaScript (ES6) – CRUD operations and dynamic functionality.
+
+React - Components and User Interfaces.
